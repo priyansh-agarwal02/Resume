@@ -1,0 +1,91 @@
+{
+    "name": "Priyansh Agarwal",
+    "contact": {
+      "phone": "+91-7619826222",
+      "github": "http://github.com/priyansh-agarwal02",
+      "email": "priyansh.official4@gmail.com",
+      "linkedin": "http://linkedin.com/in/priyansh-agarwal02"
+    },
+    "certifications": [
+      "Machine Learning Specialization by DeepLearning.AI & Stanford",
+      "ML Foundations by AWS Academy"
+    ],
+    "education": [
+      {
+        "degree": "B.Tech in Computer Science with Specialization in Software Engineering",
+        "institution": "SRM University, Kattankulathur, Chennai",
+        "cgpa": 9.43,
+        "duration": "09/2021 - 07/2025"
+      },
+      {
+        "qualification": "Intermediate (CBSE) XII",
+        "institution": "SRPS Kota",
+        "percentage": 88,
+        "year": 2021
+      },
+      {
+        "qualification": "High School (CBSE) X",
+        "institution": "Delhi Public School Kalyanpur, Kanpur",
+        "percentage": 94.2,
+        "year": 2019
+      }
+    ],
+    "skills": {
+      "programming_languages": ["MySQL", "C", "C++", "Python", "HTML", "CSS", "PHP", "jQuery", "Sqlite3", "Generative AI"],
+      "frameworks_libraries": ["LLM", "Transformers", "Langchain", "Streamlit", "Seaborn", "Tensorflow", "Keras", "Torch"],
+      "database": ["SQL Workbench", "Pandas"],
+      "software": ["LM studio", "Wordpress", "Postman", "Rest API", "Power BI"]
+    },
+    "work_experience": [
+      {
+        "company": "Cyber3ra (IIT - Kanpur Funded Startup)",
+        "location": "IIT - Kanpur, UP",
+        "title": "Machine Learning Engineer & Artificial Intelligence Intern",
+        "duration": "12/2023 - 01/2024",
+        "responsibilities": [
+          "Designed a Plugin of Chatbot for Wordpress website using PHP, CSS, JS, REST API, Local Server LLM, LM STUDIO.",
+          "Trained a Large Language Model using Langchain, Google Gemini, Pinecone for Q/A using Multiple PDFs data."
+        ]
+      },
+      {
+        "company": "Samsung R&D (Prism) (Virtual)",
+        "location": "Bangalore, India",
+        "title": "Samsung Prism Research Intern",
+        "duration": "08/2023 - 01/2024",
+        "responsibilities": [
+          "Developed a LLM for Sales Enhancement for customer Engagement for Samsung Products.",
+          "Steered a team of 4 to train a LLM Llama 2 that can handle data such as CSV, PDF and compared other LLMs."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Samsung AI Sales Chatbot",
+        "description": "Enhanced Samsung customer engagement by integrating Llama 2 LLM using Langchain, Python, TensorFlow, fine-tuning techniques like LORA. Conducted a comparative analysis of GPT-3 and Gemini using PyTorch and Transformers."
+      },
+      {
+        "title": "Stock Price Prediction",
+        "description": "Model for Predicting Stock Prices using Machine Learning, Keras, TensorFlow, Algorithm LSTM with 96% accuracy."
+      },
+      {
+        "title": "Face Recognition & Detection",
+        "description": "Designed a platform for Real time Face Recognition using Machine Learning, OpenCV, Tensorflow, Keras, CNN."
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Next Gen AI's HackSteet Hackathon - Project (Dr.Fit)",
+        "description": "Led a team to create a platform providing diet plans according to health conditions using scikit-learn, Keras."
+      },
+      {
+        "title": "BlockChain's Layer Hackathon - Project (JusticePal)",
+        "description": "Innovated a law-based app solving problems related to wrongful activities by Traffic Police using HTML, NLP, JavaScript."
+      },
+      {
+        "title": "Publicity Team Head",
+        "organization": "Team SRM Hackathon Club",
+        "description": "Contributed to the publicity of numerous club events and increased response rates via C2Cs, Instagram, and other platforms."
+      }
+    ]
+  }
+  
